@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Cesar moran</h1> 🇵🇦
+<h1 align="center">Hola 👋, soy Cesar moran 🇵🇦</h1> 
 <h3 align="center">Un entusiasta aprendiz en kalinlinux,Ubuntu i fedora</h3>
 
 <p align="left"> < img src="https://komarev.com/ghpvc/?username=acesar07&label=Profile%20views&color=0e75b6&style=flat" alt="acesar07" /> </p>
